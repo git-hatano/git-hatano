@@ -6,6 +6,7 @@
 - Python (Numpy, Pandas, Pytorch, Django, ...), C/C++, Docker
 - [Twitter](https://twitter.com/hatterblog)
 - [Google Scholor](https://scholar.google.co.jp/citations?user=m3oQN9oAAAAJ&hl=ja)
+- 趣味は読書、バイク
 
 <!---
 git-hatano/git-hatano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
