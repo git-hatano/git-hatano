@@ -14,6 +14,7 @@
 - 趣味は読書、バイク
 - [Twitter](https://twitter.com/hatterblog)
 - [Kaggle](https://www.kaggle.com/kazuhirohatano)
+- [SIGNATE](https://signate.jp/profile)
 - [Google Scholor](https://scholar.google.co.jp/citations?user=m3oQN9oAAAAJ&hl=ja)
 
 
