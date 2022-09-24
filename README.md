@@ -8,29 +8,30 @@ Honda CBR400Rに乗っています。知らない土地に行ったり、きれ�
 [Twitter](https://twitter.com/hatterblog)によく出没するので、よければフォローお願いします。
 
 
-### 専門分野💡
+### 💡 専門分野
 - 画像認識
 - 機械学習
   
-### スキル🌱
+### 🌱 スキル
 - Python
 - C/C++
 - Git
 - AWS
 - Docker
   
-### 資格⛰
+### ⛰ 資格
 - 基本情報技術者
 - 応用情報技術者
 - G検定2021#3
 - 統計検定2級
 - AWS Certified Cloud Practitioner
   
-### 学生時代の研究（医療画像認識）📷
+### 学生時代の研究（医療画像認識）📷)
+- [研究室](http://lab.cntl.kyutech.ac.jp/~kimlab/index.html)
 - [Google Scholor](https://scholar.google.co.jp/citations?user=m3oQN9oAAAAJ&hl=ja)
 - [日本医用画像学会（JAMIT）第37回大会 大会奨励賞受賞](http://www.jamit.jp/outline/history/shoreisho-list.html)
   
-### 趣味🛵
+### 🛵 趣味
 - ツーリング
 - 読書
 - コーヒー
