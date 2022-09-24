@@ -3,6 +3,8 @@
 
 Pythonや機械学習に興味があります。
 
+Honda CBR400Rに乗っています。知らない土地に行ったり、きれいな景色を見ることが好きです。
+
 [Twitter](https://twitter.com/hatterblog)によく出没するので、よければフォローお願いします。
 
 
