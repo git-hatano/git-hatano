@@ -1,6 +1,12 @@
 ## Profile
+日本の電機メーカーで車載向け検知カメラの開発をしています。
 
-### 専門💡
+Pythonや機械学習に興味があります。
+
+[Twitter](https://twitter.com/hatterblog)によく出没するので、よければフォローお願いします。
+
+
+### 専門分野💡
 - 画像認識
 - 機械学習
   
@@ -27,7 +33,8 @@
 - 読書
 - コーヒー
 - AtCoder茶
-  
+
+### my-pages
 - [AtCoder](https://atcoder.jp/users/hatter17)
 - [Kaggle](https://www.kaggle.com/kazuhirohatano)
 - [Nishika](https://profile.nishika.com/dashboard)
