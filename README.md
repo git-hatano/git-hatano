@@ -1,30 +1,32 @@
 ## Profile
 
-- 専門💡
-  - 画像処理
-  - 機械学習
+### 専門💡
+- 画像認識
+- 機械学習
   
-- スキル🌱
-  - Python
-  - C/C++
-  - Git
-  - AWS
-  - Docker
+### スキル🌱
+- Python
+- C/C++
+- Git
+- AWS
+- Docker
   
-- 資格⛰
-  - 基本情報技術者
-  - 応用情報技術者
-  - G検定2021#3
-  - 統計検定2級
+### 資格⛰
+- 基本情報技術者
+- 応用情報技術者
+- G検定2021#3
+- 統計検定2級
+- AWS Certified Cloud Practitioner
   
-- 学生時代の研究（医療画像認識）📷
-  - [Google Scholor](https://scholar.google.co.jp/citations?user=m3oQN9oAAAAJ&hl=ja)
-  - [日本医用画像学会（JAMIT）第37回大会 大会奨励賞受賞](http://www.jamit.jp/outline/history/shoreisho-list.html)
+### 学生時代の研究（医療画像認識）📷
+- [Google Scholor](https://scholar.google.co.jp/citations?user=m3oQN9oAAAAJ&hl=ja)
+- [日本医用画像学会（JAMIT）第37回大会 大会奨励賞受賞](http://www.jamit.jp/outline/history/shoreisho-list.html)
   
-- 趣味🛵
-  - バイク
-  - 読書
-  - コーヒー
+### 趣味🛵
+- ツーリング
+- 読書
+- コーヒー
+- AtCoder茶
   
 - [AtCoder](https://atcoder.jp/users/hatter17)
 - [Kaggle](https://www.kaggle.com/kazuhirohatano)
