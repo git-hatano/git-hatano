@@ -35,7 +35,7 @@ Honda CBR400Rに乗っています。知らない土地に行ったり、きれ�
 - ツーリング
 - 読書
 - コーヒー
-- AtCoder茶
+- AtCoder: 茶
 
 ### my-pages
 - [AtCoder](https://atcoder.jp/users/hatter17)
