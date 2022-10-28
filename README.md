@@ -27,7 +27,7 @@ Honda CBR400Rに乗っています。知らない土地に行ったり、きれ�
 - AWS Certified Cloud Practitioner
   
 ### 📷 学生時代の研究
-- [九州工業大学 工学府 機会知能工学専攻 金研究室](http://lab.cntl.kyutech.ac.jp/~kimlab/index.html)
+- [九州工業大学 工学府 機械知能工学専攻 金研究室](http://lab.cntl.kyutech.ac.jp/~kimlab/index.html)
 - [Google Scholor](https://scholar.google.co.jp/citations?user=m3oQN9oAAAAJ&hl=ja)
 - [日本医用画像学会（JAMIT）第37回大会 大会奨励賞受賞](http://www.jamit.jp/outline/history/shoreisho-list.html)
   
