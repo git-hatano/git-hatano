@@ -37,7 +37,7 @@ Honda CBR400Rに乗っています。知らない土地に行ったり、きれ�
 - コーヒー
 - AtCoder: 茶
 
-### my-pages
+### 📌my-pages
 - [AtCoder](https://atcoder.jp/users/hatter17)
 - [Kaggle](https://www.kaggle.com/kazuhirohatano)
 - [Nishika](https://profile.nishika.com/dashboard)
