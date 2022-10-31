@@ -31,7 +31,7 @@ Honda CBR400Rに乗っています。知らない土地に行ったり、きれ�
 - [Google Scholor](https://scholar.google.co.jp/citations?user=m3oQN9oAAAAJ&hl=ja)
 - [日本医用画像学会（JAMIT）第37回大会 大会奨励賞受賞](http://www.jamit.jp/outline/history/shoreisho-list.html)
 
-### 📌my-pages
+### 📌 my-pages
 - [AtCoder](https://atcoder.jp/users/hatter17)
 - [Kaggle](https://www.kaggle.com/kazuhirohatano)
 - [Nishika](https://profile.nishika.com/dashboard)
@@ -42,9 +42,8 @@ Honda CBR400Rに乗っています。知らない土地に行ったり、きれ�
 - ツーリング
 - 読書
 - コーヒー
-- AtCoder: 茶
 
-### 🎬好きなアニメ
+### 🎬 好きなアニメ
 - ゆるキャン△
 - ヴァイオレット・エヴァーガーデン
 - Naruto
