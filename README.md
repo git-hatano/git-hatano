@@ -38,15 +38,15 @@ Honda CBR400Rに乗っています。知らない土地に行ったり、きれ�
 - [SIGNATE](https://signate.jp/profile)
 - [Qiita](https://qiita.com/git-hatano)
 
-### ストレングスファインダーの上位5項目
+### 🔍 ストレングスファインダーの上位5項目
 - 調和性
 - 分析思考
 - 学習欲
 - 内省
 - 収集心
 
-### 16Personalities
-- ESFJ
+### 🌊 16Personalities
+- ESFJ: 領事官
 
 ### 🛵 趣味
 - ツーリング
