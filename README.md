@@ -13,13 +13,14 @@ Honda CBR400Rに乗っています。知らない土地に行ったり、きれ�
 - 機械学習
   
 ### 🌱 スキル
-- Python: AtCoder茶色
+- Python
 - C/C++
 - Git
 - AWS
 - Docker
   
 ### ⛰ 資格
+- AtCoder: 茶色
 - 基本情報技術者
 - 応用情報技術者
 - G検定2021#3
