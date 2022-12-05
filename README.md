@@ -46,7 +46,7 @@ Honda CBR400Rに乗っています。知らない土地に行ったり、きれ�
 - 内省
 - 収集心
 
-### 🙋‍♂️ 16Personalities
+### 🙋‍♂️ 16-Personalities
 - ESFJ: 領事官
 
 ### 🛵 趣味
