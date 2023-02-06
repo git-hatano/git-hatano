@@ -38,7 +38,8 @@ Honda CBR400Rに乗っています。知らない土地に行ったり、きれ�
 - [Kaggle](https://www.kaggle.com/kazuhirohatano)
 - [Nishika](https://profile.nishika.com/dashboard)
 - [SIGNATE](https://signate.jp/profile)
-- [Qiita](https://qiita.com/git-hatano)
+- [Qiita](https://qiita.com/hatter17)
+- [Zenn](https://zenn.dev/hatter)
 
 ### 🔍 ストレングスファインダー
 - 調和性
